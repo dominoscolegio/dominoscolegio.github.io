@@ -1,7 +1,7 @@
 .iframe-container {
   overflow: hidden;
   padding-top: 56.25%;
-  height:800px;
+  height:750px;
   position: relative;
 }
 
@@ -45,5 +45,5 @@ a {
   max-width: 1020px;
   padding: 2rem;
   width: 900px;
-  height:800px;
+  height:750px;
 }
